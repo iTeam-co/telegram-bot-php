@@ -2,6 +2,9 @@
 
 * just require everyfile in it (require all files in '/src' also '/src/types')
 
+# Main Repo
+* main repo is on GitLab ((https://gitlab.com/ReloadLife/Telegram-Bot-PHP)[https://gitlab.com/ReloadLife/telegram-bot-php])
+
 
 # some examples
 
